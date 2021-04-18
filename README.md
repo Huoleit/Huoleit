@@ -9,3 +9,5 @@
 
 I'm FU Zhengyu, a 3rd Year undergraduate from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) majoring in [Integrative System and Design](https://isd.hkust.edu.hk/) & [Computer Engineering](http://www.cpeg.ust.hk/). I am a __Robot Enthusiast__ 🤖 , who is passionate about Optimal Control, Model Predictive Control(MPC) and optimization for robotics.
 
+
+You might want to check my personal website at [huoleit.github.io](https://huoleit.github.io/)
