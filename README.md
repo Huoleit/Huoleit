@@ -1,4 +1,4 @@
-### Hey there <img src="Assets/Hi.gif" width="25px">
+### Hey there
 
 <a href="https://www.linkedin.com/in/zhengyu-fu-b4992a1bb">
   <img align="left" alt="" width="22px" src="Assets/linkedin.svg" />
